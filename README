@@ -1,0 +1,7 @@
+It's a simple SOAP interface which interacts with Amazon Mturk.
+Install PHP 5.0.1 or higher, if not already installed.
+Install PHP's SOAP extension, if not already installed. Odds are, if you're running PHP on Mac OS or Windows, the extension's already installed.
+        CentOS/RedHat: yum install php-soap
+        Debian/Ubuntu: apt-get install php5-soap 
+Copy and paste applications folder atop your own codeigniter.
+
